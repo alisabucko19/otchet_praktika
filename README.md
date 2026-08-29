@@ -187,7 +187,7 @@
 ---
 ### 16. Подключение LM317
 
-![Рисунок 7 - LM317](https://vk.ru/away.php?to=https%3A%2F%2Fgithub.com%2Falisabucko19%2Fimage-praktika%2Fblob%2Fmain%2F%25D1%2584%25D0%25BE%25D1%2582%25D0%25BE%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D1%258B%25201.jpg&utf=1)
+![Рисунок 7 - LM317](https://github.com/alisabucko19/image-praktika/blob/main/%D1%84%D0%BE%D1%82%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%201.jpg)
 
 ![Рисунок 7 - LM317](https://vk.ru/away.php?to=https%3A%2F%2Fgithub.com%2Falisabucko19%2Fimage-praktika%2Fblob%2Fmain%2F%25D1%2584%25D0%25BE%25D1%2582%25D0%25BE%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D1%258B%25202.jpg&utf=1)
 
