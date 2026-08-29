@@ -172,7 +172,7 @@
 Освоен принцип работы ROS-узлов (Nodes), топиков (Topics) и сообщений (Messages). Я создал собственный простой узел на Python, подписывающийся на топик /mavros/imu/data и выводящий значения ускорений в консоль. Проведена отладка работы MAVROS с Gazebo, что подтвердило корректность мостового соединения.
 
 
-![Рисунок 6 - ROS](https://vk.ru/away.php?to=https%3A%2F%2Fgithub.com%2Falisabucko19%2Fimage-praktika%2Fblob%2Fmain%2F%25D1%2580%25D0%25B8%25D1%2581%25D1%2583%25D0%25BD%25D0%25BE%25D0%25BA%25206(%25D0%25BF14).png&utf=1)
+![Рисунок 6 - ROS](https://github.com/alisabucko19/image-praktika/blob/main/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%206(%D0%BF14).png)
 
 Рисунок 6 - ROS
 
